@@ -1,0 +1,10 @@
+#inside ~/.gitconfig.company
+[user]
+email = nimrraakhaann@gmail.com
+name = Nimrah Khan
+ 
+[github]
+user = "nimrra" #should be inisde double quote.
+ 
+[core]
+sshCommand = "ssh -i ~/.ssh/my-first-asto-blog" #should be inisde double quote.
